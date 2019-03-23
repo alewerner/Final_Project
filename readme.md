@@ -12,9 +12,9 @@ Understand basic concepts of Blockchain and Smart Contracs. Need to be installed
 
 ## Project Information:
 
-*Truffle version: Truffle v5.0.0.8;
-*openzeppelin version: 2.1.2;
-*Token name: Antares;
-*Token Symbol: ANTx;
-*Token Address on blockchain : 0x063731a85D8C3cb9Dd21e0F5E721f5F1f12381e3 ;
-*Token Address on Rinkeby Test Network: https://rinkeby.etherscan.io/tx/0xbd96400d2bb9daac1e21b1cd32eb7601144498d84f314828d1498592e13edae0 ;
+* Truffle version: Truffle v5.0.0.8;
+* openzeppelin version: 2.1.2;
+* Token name: Antares;
+* Token Symbol: ANTx;
+* Token Address on blockchain : 0x063731a85D8C3cb9Dd21e0F5E721f5F1f12381e3 ;
+* Token Address on Rinkeby Test Network: https://rinkeby.etherscan.io/tx/0xbd96400d2bb9daac1e21b1cd32eb7601144498d84f314828d1498592e13edae0 ;
